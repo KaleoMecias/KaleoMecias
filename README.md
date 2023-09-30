@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kaleo-SQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Kaleo-SQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
 ##
