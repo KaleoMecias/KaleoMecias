@@ -1,4 +1,4 @@
-## Olá! Eu sou Kaleo Mecias
+## Hi! I'am Kaleo Mecias. This is my study profile
 
 <div>
   <a href="https://github.com/KaleoMecias">
