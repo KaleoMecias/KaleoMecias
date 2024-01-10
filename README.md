@@ -17,6 +17,6 @@
 
 </div>
 
-![Snake Game](https://github.com/KaleoMecias/KaleoMecias/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KaleoMecias/KaleoMecias/blob/output/github-contribution-grid-snake.svg)
 
 
